@@ -1,0 +1,15 @@
+{
+    "urls": [
+        {"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/civilhe/Awen/main/Awen.json","name": " 🀄测试接口"},
+        {"url": "http://www.饭太硬.com/tv","name": "🀄饭太硬"},
+        {"url": "http://肥猫.live/ ","name": " 🀄肥猫"},
+        {"url": "http://ok321.top/ok","name": " 🀄OK猫影线路"},
+        {"url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/Yu.json","name": " 🀄B线路"},
+        {"url": "https://juziyou.vip/tv","name": " 🀄橘子柚弹幕线路"},
+        {"url": "http://cdn.qiaoji8.com/tvbox.json","name": " 🀄巧技线路"},
+        {"url": "https://tv.lan2wan.top/candymuj.json","name": " 🀄看电影线路"},
+        {"url": "http://我不是.摸鱼儿.top","name": "🀄摸鱼线路"},
+        {"url": "http://www.wya6.cn/tv/yc.php","name": " 🀄无意线路"},
+        {"url": "https://raw.gitmirror.com/maoystv/6/main/001.json","name": " 🀄分享者线路"}
+        ]
+}
