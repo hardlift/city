@@ -20,6 +20,7 @@
     {"key":"神仙影视","name":"🀄神仙影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/神仙影视.json"},
     {"key": "七夕❤️无广","name":"🀄七夕影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/七夕.json"},
     {"key": "1全看网","name": "🀄全看影视","type": 3,"api":"csp_XBPQ","ext": {"分类url": "https://www.qkw1.cc/show/{cateId}--{by}------{catePg}---{year}.html","分类": "电影&剧集&综艺&动漫","分类值": "1&2&3&4"}},
+    {"key": "csp_淘剧","name": "️🀄淘剧影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
     {"key": "csp_达龟","name": "🀄达龟影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/达达龟影视.json"},
     {"key": "酷看弹幕","name": "🀄酷看弹幕","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"jar": "./jar/danmu.jar"},
     {"key": "天天弹幕","name": "🀄天天弹幕","type": 3,"api": "csp_TianTian","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"jar": "./jar/danmu.jar"},
