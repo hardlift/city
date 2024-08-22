@@ -8,7 +8,7 @@
     {"key": "阿里云集合","name": "👽阿里合集","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "./json/阿里集合.json;./json/tk.php","jar":"./jar/阿里.jar"},
     {"key": "csp_星辰","name":"🀄星辰秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/xcys.json"},
     {"key": "华为吧采集","name": "🀄华为采集","jar":"./jar/c.txt","type": 1,"api": "https://hw8.live/api.php/provide/vod/","style": {"ratio": 1.7}},
-    {"key": "hipy_js_4k剧院","name": "🀄4k剧院","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 6,"ext": "./js/4k剧院.js"},
+    {"key": "hipy_js_4k剧院","name": "🀄4k剧院","type": 3,"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 6,"ext": "./js/4k剧院.js"},
     {"key": "csp_七新","name": "🀄七新影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/七新影视.json"},
     {"key":"蜂2鸟","name":"🀄蜂鸟影视","type":3,"api":"csp_AppSK","jar": "./jar/Awen1.zip","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="},
     {"key": "酷看","name": "🀄酷看秒播","type": 3,"api": "csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
