@@ -18,7 +18,7 @@
     {"key": "XBPQ_dyxs","name": "🀄先生影视","type": 3,"api": "csp_XBPQ","ext": "./json/DY.json"},
     {"key": "农民影视","name": "🀄农民秒播","type": 3,"api": "csp_WexNmys","jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable": 1,"changeable": 1},
     {"key": "七夕❤️无广","name":"🀄七夕影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/七夕.json"},
-    {"key": "csp_淘剧","name": "️🀄淘剧影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
+    {"key": "csp_淘剧","name": "️🀄淘剧影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"}，
     {"key": "csp_达龟","name": "🀄达龟影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/达达龟影视.json"},
     {"key": "天天弹幕","name": "🀄天天弹幕","type": 3,"api": "csp_TianTian","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"jar": "./jar/danmu.jar"},
     {"key":"荐片弹幕","name":"🀄荐片弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "./jar/danmu.jar"},
