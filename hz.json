@@ -17,7 +17,11 @@
     {"key": "hipy_js_fxztg","name": "🀄糖果影视","type": 3,"ua": "okhttp/3.15","api": "./lib/drpy2.min.js","ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享糖果.js"},
     {"key": "fxzjpyy","name": "🀄金牌影视","type": 3,"api": "csp_Jpys","searchable": 1,"changeable": 1,"playerType": 1,"jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者c.zip"},
     {"key": "玩偶","name": "👽玩偶4K","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727255288668/fan.txt;md5;750fcfb2076177bc0bd828d109aa73c9","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd","siteUrl": "https://www.wogg.link/","danMu": "弹"}}, 
-    {"key": "csp_星辰","name":"🀄星辰秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/xcys.json"},
+    {"key": "星辰影院","name": "🀄星辰影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
+        "影片类型": "Awen制作",
+        "播放标题": ">&&<[不包含:1080P]",
+        "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"}},
     {"key": "华为吧采集","name": "🀄华为采集","jar":"./jar/c.txt","type": 1,"api": "https://hw8.live/api.php/provide/vod/","style": {"ratio": 1.7}},
     {"key": "hipy_js_4k剧院","name": "🀄4k剧院","type": 3,"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 6,"ext": "./js/4k剧院.js"},
     {"key": "csp_七新","name": "🀄七新影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/七新影视.json"},
