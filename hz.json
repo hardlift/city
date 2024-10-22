@@ -6,7 +6,8 @@
     {"key": "文采","name": "🀄文采秒播","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
     {"key": "js_subaibai","name": "🀄白白影视","type": 3,"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/素白白[优].js"},
     {"key": "可可","name": "🀄可可影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/可可.json"},
-    {"key": "fxzczzy","name": "🀄厂长影视","type": 3,"api": "csp_NewCz","searchable": 1,"changeable": 1,"playerType": 1,"jar": "./jar/c.jar"},
+    {"key": "厂长弹幕版","name": "🀄厂长弹幕","type": 3,"api": "csp_Czzy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
+        "danmu": true},"timeout": 10},
     {"key": "shiju影视","name": "🀄视觉影视","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"jar": "","ext": "./json/SJ.json"},
     {"key": "天天弹幕版","name": "🀄天天弹幕","type": 3,"api": "csp_TianTian","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
         "danmu": true},"timeout": 10},
@@ -16,7 +17,6 @@
         "danmu": true},"timeout": 10},
     {"key":"荐片弹幕","name":"🀄荐片弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "./jar/danmu.jar"},
     {"key": "hipy_js_fxztg","name": "🀄糖果影视","type": 3,"ua": "okhttp/3.15","api": "./lib/drpy2.min.js","ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享糖果.js"},
-    {"key": "fxzjpyy","name": "🀄金牌影视","type": 3,"api": "csp_Jpys","searchable": 1,"changeable": 1,"playerType": 1,"jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者c.zip"},
     {"key": "玩偶","name": "👽玩偶4K","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727255288668/fan.txt;md5;750fcfb2076177bc0bd828d109aa73c9","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd","siteUrl": "https://www.wogg.link/","danMu": "弹"}}, 
     {"key": "星辰影院","name": "🀄星辰影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
         "影片类型": "Awen制作",
@@ -41,7 +41,6 @@
     {"key":"csp_xBPQ_奇优","name":"🀄奇优秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/qiyou.json"},
     {"key": "drjs_子子影视","name": "🀄子子直连","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/子子影视.js"},
     {"key": "✨YY影视✨","name": "🀄YY(有广)","type": 3,"api": "csp_XBPQ","ext": "./json/YY.json"},
-    {"key": "小马影视","name": "🀄小马(有广)","type": 3,"api": "csp_AppYsV2","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://mas.szyyds.cn/api.php/app/"},
     {"key":"剧圈圈","name":"🀄剧圈影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/剧圈圈.json"},
     {"key": "drpy_jk","name": "💖即看影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/JK.js"},
     {"key": "348影视","name": "💖348秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/348.json"},
@@ -55,6 +54,7 @@
     {"key": "csp_XYQHiker_河马短剧","name":"🍋河马短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/河马短剧.json"},
     {"key": " 刘公子","name": "💎天空影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"副标题": "Awen专属","线路标题": "Awen专属","分类url": "https://www.njshunma.com/index.php/vod/type/id/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类": "全网短剧&电影&电视剧&动漫&综艺&动画片&邵氏电影&电影解说","分类值": "41&1&2&4&3&37&38&39"}},
     {"key": "奇趣影视","name": "🍋奇趣影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/奇趣影视.json"},
+    {"key": "无忧短剧","name": "🍋无忧短剧","type": 3,"api": "csp_Duanj","searchable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433},"timeout": 10},
     {"key": "csp_XYQHiker_爱你短剧","name":"🍋爱你短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/爱你短剧.json"},
     {"key": "你好帅","name": "🍋好帅短剧","type": 3,"api": "csp_XBPQ","ext": {
         "分类url": "https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html",
