@@ -37,7 +37,7 @@
       "ext": "http://kxrj.site:55/lib/采集之王[合].js?type=url&params=http://kxrj.site:55/lib/采集静态.json$1"
     },
     {"key": "csp_七新","name": "🀄七新影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/七新影视.json"},
-    {"key": "hipy_js_4k剧院","name": "🀄4k剧院","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 6,"ext": "./js/4k剧院.js"},
+    {"key": "hipy_js_4k剧院","name": "🀄4k剧院","type": 3,"api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 6,"ext": "./js/4k剧院.js"},
     {"key":"蜂2鸟","name":"🀄蜂鸟影视","type":3,"api":"csp_AppSK","jar": "./jar/Awen1.zip","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="},
     {"key": "荐片","name": "🀄荐片蓝光","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/jianpian.js"},
     {"key": "csp_xBPQ_九八","name": "🀄酒吧秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/98.json"},
