@@ -10,6 +10,7 @@
     {"key": "csp_JPYY","name": "🀄金牌影视","type": 3,"jar": "./jar/xm.jar","searchable": 1,"changeable": 1,"api": "csp_Jpyy","playerType": 1,"filterable": 1,"ext": ""},
     {"key": "csp_AppDaMi","name": "🀄大米影视","type": 3,"playerType": "2","api": "csp_AppDaMi","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://app-v1.ecoliving168.com/"},
     {"key": "可可","name": "🀄可可影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/可可.json"},
+    {"key": "克隆合集","name": "🀄木耳采集","type": 4,"api": "https://api.paoyun.eu.org/klhj.php","searchable": 1,"quickSearch": 1,"filterable": 0},
     {"key": "fxz布蕾","name": "🀄布蕾影视","type": 3,"api": "https://cdn09022024.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "./js/bulei4K.js"},
     {"key": "乐观","name": "🀄乐观影视","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx","jar": "./jar/laohujar.jar"},
     {"key": "shiju影视","name": "🀄视觉影视","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"jar": "","ext": "./json/SJ.json"},
@@ -58,7 +59,6 @@
     {"key": "csp_XYQHiker_河马短剧","name":"🍋河马短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/河马短剧.json"},
     {"key": " 刘公子","name": "💎天空影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"副标题": "Awen专属","线路标题": "Awen专属","分类url": "https://www.njshunma.com/index.php/vod/type/id/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类": "全网短剧&电影&电视剧&动漫&综艺&动画片&邵氏电影&电影解说","分类值": "41&1&2&4&3&37&38&39"}},
     {"key": "奇趣影视","name": "🍋奇趣影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/奇趣影视.json"},
-    {"key": "无忧短剧","name": "🍋无忧短剧","type": 3,"api": "csp_Duanj","searchable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433},"timeout": 10},
     {"key": "csp_XYQHiker_爱你短剧","name":"🍋爱你短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/爱你短剧.json"},
     {"key": "你好帅","name": "🍋好帅短剧","type": 3,"api": "csp_XBPQ","ext": {
         "分类url": "https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html",
