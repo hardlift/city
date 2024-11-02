@@ -10,7 +10,7 @@
     {"key": "csp_JPYY","name": "🀄金牌影视","type": 3,"jar": "./jar/xm.jar","searchable": 1,"changeable": 1,"api": "csp_Jpyy","playerType": 1,"filterable": 1,"ext": ""},
     {"key": "csp_AppDaMi","name": "🀄大米影视","type": 3,"playerType": "2","api": "csp_AppDaMi","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://app-v1.ecoliving168.com/"},
     {"key": "可可","name": "🀄可可影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/可可.json"},
-    {"key": "克隆合集","name": "🀄木耳采集","type": 4,"api": "https://api.paoyun.eu.org/klhj.php","searchable": 1,"quickSearch": 1,"filterable": 0},
+    {"key": "克隆合集","name": "🀄克隆采集","type": 4,"api": "https://api.paoyun.eu.org/klhj.php","searchable": 1,"quickSearch": 1,"filterable": 0},
     {"key": "fxz布蕾","name": "🀄布蕾影视","type": 3,"api": "https://cdn09022024.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "./js/bulei4K.js"},
     {"key": "乐观","name": "🀄乐观影视","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx","jar": "./jar/laohujar.jar"},
     {"key": "shiju影视","name": "🀄视觉影视","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"jar": "","ext": "./json/SJ.json"},
