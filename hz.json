@@ -11,10 +11,7 @@
     {"key": "fxzjpyy","name": "🀄金牌影视","type": 3,"api": "csp_Jpys","searchable": 1,"changeable": 1,"playerType": 1,"jar": "./jar/c.jar"},
     {"key": "csp_AppDaMi","name": "🀄大米影视","type": 3,"playerType": "2","api": "csp_AppDaMi","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://app-v1.ecoliving168.com/"},
     {"key": "可可","name": "🀄可可影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/可可.json"},
-    {"key": "克隆合集","name": "🀄克隆采集","type": 4,"api": "https://api.paoyun.eu.org/klhj.php","searchable": 1,"quickSearch": 1,"filterable": 0},
-    {"key": "fxz布蕾","name": "🀄布蕾影视","type": 3,"api": "https://cdn09022024.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "./js/bulei4K.js"},
     {"key": "乐观","name": "🀄乐观影视","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx","jar": "./jar/laohujar.jar"},
-    {"key": "shiju影视","name": "🀄视觉影视","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"jar": "","ext": "./json/SJ.json"},
     {"key": "天天弹幕版","name": "🀄天天弹幕","type": 3,"api": "csp_TianTian","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
         "danmu": true},"timeout": 10},
     {"key": "文才","name": "🀄文才弹幕","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true
@@ -26,6 +23,9 @@
         "danmu": true},"timeout": 10},
     {"key": "厂长弹幕版","name": "🀄厂长弹幕","type": 3,"api": "csp_Czzy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
         "danmu": true},"timeout": 10},
+    {"key": "shiju影视","name": "🀄视觉影视","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"jar": "","ext": "./json/SJ.json"},    
+    {"key": "克隆合集","name": "🀄克隆采集","type": 4,"api": "https://api.paoyun.eu.org/klhj.php","searchable": 1,"quickSearch": 1,"filterable": 0},
+    {"key": "fxz布蕾","name": "🀄布蕾影视","type": 3,"api": "https://cdn09022024.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "./js/bulei4K.js"},
     {"key": "玩偶","name": "👽玩偶4K","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727255288668/fan.txt;md5;750fcfb2076177bc0bd828d109aa73c9","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd","siteUrl": "https://www.wogg.link/","danMu": "弹"}}, 
     {"key": "星辰影院","name": "🀄星辰影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
         "影片类型": "Awen制作",
