@@ -3,12 +3,12 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {"key":"豆瓣","name":"🀄个人测试，请勿传播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},  
-    {"key": "🌞腾腾4K解析_js","name": "🀄腾腾4K(解析)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./js/腾腾4K.js"},
     {"key": "csp_XYQHikerNm","name": "🀄糯米影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/nmys.json","jar": ""},
     {"key": "csp_Nmvod_QJ","name": "🀄柠檬影视","type": 3,"api": "csp_Nmvod","playerType": 2,"ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==","jar": "./jar/laohujar.jar"},
     {"key": "fxz凡人追剧","name": "🀄凡人秒播","type": 3,"api": "csp_AppFr","jar": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.zip","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "KhYl01KelCEl+6MsvwnzaPusskytDBtcrHmF5gioReBS94fKHAcEZKYBPY49yQk2cmRHx02ABdJlrmBGDCSmDqsO+8bj25/UQR7nNZL4MyO9j3Ebzzhd6eXcFfgLedFRrj+RspzamxuLlU2XhI4spvLmabEoV8Ts/4XM0/Q5eGrZuYyyWwcjDb2Rkc9LDxfLCQ=="},
     {"key": "文采","name": "🀄文采秒播","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
     {"key": "fxzjpyy","name": "🀄金牌影视","type": 3,"api": "csp_Jpys","searchable": 1,"changeable": 1,"playerType": 1,"jar": "./jar/c.jar"},
+    {"key": "csp_Nongm","name": "🀄农民APP","type": 3,"playerType": "2","api": "csp_Nongm","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.wwgz.cn/"},
     {"key": "csp_AppDaMi","name": "🀄大米影视","type": 3,"playerType": "2","api": "csp_AppDaMi","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://app-v1.ecoliving168.com/"},
     {"key": "可可","name": "🀄可可影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/可可.json"},
     {"key": "乐观","name": "🀄乐观影视","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx","jar": "./jar/laohujar.jar"},
