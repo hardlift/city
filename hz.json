@@ -3,6 +3,22 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {"key":"豆瓣","name":"🀄个人测试，请勿传播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},  
+    {
+  "key": "夸克多多弹幕",
+  "name": "🍥多多4K需扫码",
+  "type": 3,
+  "api": "csp_Wobg",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.php",
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "site": "https://tv.yydsys.top",
+           "danmu": true
+         }
+},
     {"key": "人人影视_js","name": "🀄‍人人影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./js/人人影视.js"},
     {"key": "csp_XYQHikerNm","name": "🀄糯米影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/nmys.json","jar": ""},
     {"key": "csp_Nmvod_QJ","name": "🀄柠檬影视","type": 3,"api": "csp_Nmvod","playerType": 2,"ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==","jar": "./jar/laohujar.jar"},
@@ -30,7 +46,6 @@
     {"key": "shiju影视","name": "🀄视觉影视","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"jar": "","ext": "./json/SJ.json"},    
     {"key": "克隆合集","name": "🀄克隆采集","type": 4,"api": "https://api.paoyun.eu.org/klhj.php","searchable": 1,"quickSearch": 1,"filterable": 0},
     {"key": "fxz布蕾","name": "🀄布蕾影视","type": 3,"api": "https://cdn09022024.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "./js/bulei4K.js"},
-    {"key": "玩偶","name": "👽玩偶4K","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727255288668/fan.txt;md5;750fcfb2076177bc0bd828d109aa73c9","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd","siteUrl": "https://www.wogg.link/","danMu": "弹"}}, 
     {"key": "星辰影院","name": "🀄星辰影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
         "影片类型": "Awen制作",
         "播放标题": ">&&<[不包含:1080P]",
