@@ -12,7 +12,8 @@
     {"key": "文采","name": "🀄文采秒播","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
     {"key": "fxzjpyy","name": "🀄金牌影视","type": 3,"api": "csp_Jpys","searchable": 1,"changeable": 1,"playerType": 1,"jar": "./jar/c.jar"},
     {"key": "月惜花晨","name": "🀄月惜花晨","type": 3,"api": "http://xn--v6q485m.xn--esstbv41m2ra.icu/js/smdy.js","style": {"type": "rect",
-              "ratio": 0.65},"ext": "https://git.acwing.com/smdy/tvbox/-/raw/main/js/月惜花晨.js"},	  
+              "ratio": 0.65},"ext": "https://git.acwing.com/smdy/tvbox/-/raw/main/js/月惜花晨.js"},	 
+    {"key": "xiaoxiong","name": "🀄小熊影视","type": 1,"playerType": 1,"searchable": 1,"quickSearch": 1,"api": "http://154.9.252.167:190/lib/小熊.php?ggao=免费使用","playUrl": "json:http://154.9.252.167:190/json/xiaoxiong.php?key=137811046&url=","categories": []}, 
     {"key": "可可","name": "🀄可可影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/可可.json"},
     {"key": "乐观","name": "🀄乐观影视","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx","jar": "./jar/laohujar.jar"},
     {"key": "天天弹幕版","name": "🀄天天弹幕","type": 3,"api": "csp_TianTian","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
