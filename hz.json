@@ -63,8 +63,6 @@
     {"key": "小苹果弹幕版","name": "🀄苹果弹幕","type": 3,"api": "csp_Xpg","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
         "danmu": true},"timeout": 10},
     {"key":"荐片弹幕","name":"🀄荐片弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "./jar/danmu.jar"},
-    {"key": "南瓜弹幕版","name": "🀄南瓜弹幕","type": 3,"api": "csp_Nangua","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
-        "danmu": true},"timeout": 10},
     {"key": "csp_淘剧","name": "️🀄淘剧影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},    
     {"key": "csp_Nongm","name": "🀄农民APP","type": 3,"playerType": "2","api": "csp_Nongm","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.wwgz.cn/"},
     {"key": "小马","name": "🀄小马蓝光","type": 3,"api": "csp_AppYsV2","ext": "https://mas.szyyds.cn/api.php/app/"},
