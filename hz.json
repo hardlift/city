@@ -1,5 +1,5 @@
 {
-  "spider": "http://kxrj.site:55/lib/ttkx.jar",
+  "spider": "https://gitlab.com/city1995147/city/-/raw/main/hz.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {"key":"豆瓣","name":"🀄个人测试，请勿传播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},  
@@ -13,8 +13,9 @@
     {"key": "fxz凡人追剧","name": "🀄凡人秒播","type": 3,"api": "csp_AppFr","jar": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.zip","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "KhYl01KelCEl+6MsvwnzaPusskytDBtcrHmF5gioReBS94fKHAcEZKYBPY49yQk2cmRHx02ABdJlrmBGDCSmDqsO+8bj25/UQR7nNZL4MyO9j3Ebzzhd6eXcFfgLedFRrj+RspzamxuLlU2XhI4spvLmabEoV8Ts/4XM0/Q5eGrZuYyyWwcjDb2Rkc9LDxfLCQ=="},
     {"key":"比特影视","name": "🀄比特秒播","type":3,"api":"csp_Bttwo","jar": "https://xn--ps4-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "文采","name": "🀄文采秒播","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
-    {"key": "fxzjpyy","name": "🀄金牌影视","type": 3,"api": "csp_Jpys","searchable": 1,"changeable": 1,"playerType": 1,"jar": "./jar/c.jar"},
-    {"key": "csp_Nongm","name": "🀄农民APP","type": 3,"playerType": "2","api": "csp_Nongm","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.wwgz.cn/"},
+    {"key": "金牌影视","name": "🀄金牌影视","type": 3,"api": "http://kxrj.site:55/lib/drpy2.min.js","ext": "http://kxrj.site:55/lib/js/金牌影视.js"},
+    {"key": "csp_Nmys","name": "🀄农民APP","type": 3,"playerType": "2","api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": "https://vip.wwgz.cn/"},
     {"key": "月惜花晨","name": "🀄月惜花晨","type": 3,"api": "http://xn--v6q485m.xn--esstbv41m2ra.icu/js/smdy.js","style": {"type": "rect",
               "ratio": 0.65},"ext": "https://git.acwing.com/smdy/tvbox/-/raw/main/js/月惜花晨.js"},	
     {"key":"蜂2鸟","name":"🀄蜂鸟影视","type":3,"api":"csp_AppSK","jar": "./jar/Awen1.zip","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="}, 
