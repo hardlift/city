@@ -72,8 +72,24 @@
 "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",    
     
       
- "lives": [{"name": "Live","type": 0,"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u","playerType": 1,"epg": "http://epg.112114.eu.org/?ch={name}&date={date}"},
-            {"name": "Live1","type": 0,"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/civilhe/city/Files/temp.m3u","playerType": 1,"epg": "http://epg.112114.eu.org/?ch={name}&date={date}"}],
+ "lives": [ {
+      "name": "⑪V6明线路",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+            {
+      "name": "①live",
+      "type": 0,
+      "url": "http://kxrj.site:55/lib/kx2024.txt",
+      "ua": "okhttp/3",
+      "playerType": 1,
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
      
   "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905 ","funshion ","duoduozy","xinluan","ddzy","tgqp","tkqp","XRJX","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
   "parses": [
