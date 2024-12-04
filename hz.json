@@ -5,6 +5,7 @@
     {"key":"豆瓣","name":"🀄个人测试，请勿传播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},  
     {"key": "木偶网盘","name": "📀木偶4K（UC浏览器扫码）","type": 3,"api": "csp_Wobg","searchable": 1,"filterable": 1,"changeable": 1,"ext": {"token": "http://127.0.0.1:9978/file/tvbox/tok.txt","cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt","uc_cookie": "http://127.0.0.1:9978/file/tvbox/uc.txt","site": "http://www.mogg.top/","danmu": true},"timeout": 25},
     {"key": "玩偶哥哥","name": "📀玩偶4K（UC浏览器扫码）","type": 3,"api": "csp_Wogg","searchable": 1,"filterable": 1,"changeable": 1,"ext": {"token": "http://127.0.0.1:9978/file/tvbox/tok.txt","cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt","uc_cookie": "http://127.0.0.1:9978/file/tvbox/uc.txt","wogg": true,"danmu": true},"timeout": 30},
+    {"key": "人人影视_js","name": "🀄‍人人影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./js/人人影视.js"},
     {"key": "果果4K解析_js","name": "🀄果果4K","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,
       "order_num": 0,"ext": "./js/果果4K.js"},
     {"key": "🌞腾腾4K解析_js","name": "🀄腾腾4K","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./js/腾腾4K.js"},
@@ -23,6 +24,7 @@
     {"key": "csp_Nmys","name": "🀄农民APP","type": 3,"playerType": "2","api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": "https://vip.wwgz.cn/"},
     {"key": "可可","name": "🀄可可影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/可可.json"},
+    {"key":"csp_xBPQ_奇优","name":"🀄奇优秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/qiyou.json"},
     {"key": "文才","name": "🀄文才弹幕","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true
       },"timeout": 10},
     {"key":"荐片弹幕","name":"🀄荐片弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "./jar/danmu.jar"},
@@ -45,7 +47,6 @@
     {"key": "美柏","name": "🀄美柏","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/美柏.json"},
     {"key": "csp_xBPQ_九八","name": "🀄酒吧秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/98.json"},
     {"key": "七夕❤️无广","name":"🀄七夕影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/七夕.json"},
-    {"key":"csp_xBPQ_奇优","name":"🀄奇优秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/qiyou.json"},
     {"key":"剧圈圈","name":"🀄剧圈影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/剧圈圈.json"},
     {"key": "小马","name": "🀄小马蓝光","type": 3,"api": "csp_AppYsV2","ext": "https://mas.szyyds.cn/api.php/app/"},
     {"key": "drpy_jk","name": "💖即看影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/JK.js"},
