@@ -20,6 +20,11 @@
     {"key":"热播影视","name":"🀄热播影视","jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;657532cb4981ce32603e945774c1ac81","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "csp_XYQHikerNm","name": "🀄糯米影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/nmys.json","jar": ""},
     {"key":"比特影视","name": "🀄比特秒播","type":3,"api":"csp_Bttwo","jar": "https://xn--ps4-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540","searchable":1,"quickSearch":1,"filterable":1},
+    {"key": "星辰影院","name": "🀄星辰影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
+        "影片类型": "Awen制作",
+        "播放标题": ">&&<[不包含:1080P]",
+        "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"}},
     {"key": "金牌影视","name": "🀄金牌影视","type": 3,"api": "http://kxrj.site:55/lib/drpy2.min.js","ext": "http://kxrj.site:55/lib/js/金牌影视.js"},
     {"key": "csp_Nmys","name": "🀄农民APP","type": 3,"playerType": "2","api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": "https://vip.wwgz.cn/"},
@@ -38,11 +43,6 @@
     {"key": "hipy_js_4k剧院","name": "🀄4k剧院","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 6,"ext": "./js/4k剧院.js"},
     {"key": "fxz布蕾","name": "🀄布蕾影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "./js/bulei4K.js"},
     {"key": "shiju影视","name": "🀄视觉影视","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"jar": "","ext": "./json/SJ.json"},    
-    {"key": "星辰影院","name": "🀄星辰影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
-        "影片类型": "Awen制作",
-        "播放标题": ">&&<[不包含:1080P]",
-        "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"}},
     {"key": "华为吧采集","name": "🀄华为采集","jar":"./jar/c.txt","type": 1,"api": "https://hw8.live/api.php/provide/vod/","style": {"ratio": 1.7}},
     {"key": "美柏","name": "🀄美柏","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/美柏.json"},
     {"key": "csp_xBPQ_九八","name": "🀄酒吧秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/98.json"},
