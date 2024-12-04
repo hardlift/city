@@ -19,7 +19,6 @@
     {"key":"热播影视","name":"🀄热播影视","jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;657532cb4981ce32603e945774c1ac81","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "csp_XYQHikerNm","name": "🀄糯米影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/nmys.json","jar": ""},
     {"key":"比特影视","name": "🀄比特秒播","type":3,"api":"csp_Bttwo","jar": "https://xn--ps4-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540","searchable":1,"quickSearch":1,"filterable":1},
-    {"key": "文采","name": "🀄文采秒播","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
     {"key": "金牌影视","name": "🀄金牌影视","type": 3,"api": "http://kxrj.site:55/lib/drpy2.min.js","ext": "http://kxrj.site:55/lib/js/金牌影视.js"},
     {"key": "csp_Nmys","name": "🀄农民APP","type": 3,"playerType": "2","api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": "https://vip.wwgz.cn/"},
