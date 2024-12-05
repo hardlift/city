@@ -28,7 +28,8 @@
     {"key":"热播影视","name":"🀄热播影视","jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;657532cb4981ce32603e945774c1ac81","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "csp_XYQHikerNm","name": "🀄糯米影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/nmys.json","jar": ""},
     {"key":"比特影视","name": "🀄比特秒播","type":3,"api":"csp_Bttwo","jar": "https://xn--ps4-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540","searchable":1,"quickSearch":1,"filterable":1},
-    {"key": "可可","name": "🀄可可影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/可可.json"},
+     {"key": "可可影视[优]_js","name": "🀄‍可可影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,
+      "order_num": 0,"ext": "./js/可可影视.js"},
     {"key":"csp_xBPQ_奇优","name":"🀄奇优秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/qiyou.json"},
     {"key": "文才","name": "🀄文才弹幕","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true
       },"timeout": 10},
