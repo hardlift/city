@@ -27,7 +27,6 @@
     {"key": "客星","name": "客星🍁App","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM=","jar": "./jar/laohujar.jar"},
     {"key": "繁荣","name": "凡人🍁1080P","type": 3,"api": "csp_Frong","playerType": 2,"ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjgxMzN8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"},
-    {"key": "csp_XYQHikerNm","name": "糯米🍁影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/nmys.json","jar": ""},
     {"key": "可可影视[优]_js","name": "可可🍁影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,
       "order_num": 0,"ext": "./js/可可影视.js"},
     {"key":"csp_xBPQ_奇优","name":"奇优🍁秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/qiyou.json"},
