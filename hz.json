@@ -40,7 +40,6 @@
         "danmu": true},"timeout": 10},
     {"key": "csp_淘剧","name": "️淘剧🍁影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},    
     {"key": "七新电影网_js","name": "七新🍁影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./js/七新电影网.js"},
-    {"key": "fxz南瓜","name": "南瓜🍁影视","type": 3,"api": "csp_NanGua","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "http://gitlab.com/hardlift/city/-/raw/main/jar/c.jar"},
     {"key": "hipy_js_4k剧院","name": "4k🍁剧院","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 6,"ext": "./js/4k剧院.js"},
     {"key": "fxz布蕾","name": "布蕾🍁影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "./js/bulei4K.js"},
     {"key": "shiju影视","name": "视觉🍁影视","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"jar": "","ext": "./json/SJ.json"},    
