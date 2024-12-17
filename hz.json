@@ -1,5 +1,5 @@
 {
-  "spider": "http://gitlab.com/hardlift/city/-/raw/main/jar/hz1.jar",
+  "spider": "http://gitlab.com/hardlift/city/-/raw/main/jar/hz.jar",
   "warningText": "Awen提示您：📢请勿相信视频中的广告",
   "sites": [
     {"key": "豆瓣","name": "🍁个人测试，请勿传播🍁","type": 3,"api": "csp_Douban","searchable": 0,"changeable": 1},  
@@ -7,6 +7,7 @@
     {"key": "玩偶哥哥","name": "玩偶📀4K（UC浏览器扫码）","type": 3,"api": "csp_Wogg","searchable": 1,"filterable": 1,"changeable": 1,"ext": {"token": "http://127.0.0.1:9978/file/tvbox/tok.txt","cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt","uc_cookie": "http://127.0.0.1:9978/file/tvbox/uc.txt","wogg": true,"danmu": true},"timeout": 30},
     {"key": "csp_UC","name": "UC📀4K（UC浏览器扫码）","type": 3,"api": "csp_MiUc","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733755231778/xmwd.jar;md5;3ef54a7eb1e4488a7f10e12c41b08ea0",	"changeable": 0,"filterable": 1,
   "ext": {"site_urls": ["http://www.mucpan.cc","http://ucmi.fun","http://www.ucmi.fun"],"url_key": "MiUc","threadinfo": {      "chunksize": 450,"threads": 10}}},	
+    {"key": "ky1080","name": "酷云🍁APP","type": 3,"api": "http://47.99.102.252/js/openkuyun.js"},
     {"key": "金牌影视","name": "金牌🍁影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/金牌影视.js"},
     {"key": "素白白[优]_js","name": "白白🍁影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./js/素白白.js"}, 
     {"key": "果果4K解析_js","name": "果果🍁4K","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -39,6 +40,7 @@
     {"key": "hipy_js_4k剧院","name": "4k🍁剧院","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 6,"ext": "./js/4k剧院.js"},
     {"key": "优酷","name": "酷酷🍁(官)","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","ext": "./js/优酷.js"},
     {"key": "fxz布蕾","name": "布蕾🍁影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "./js/bulei4K.js"},
+    {"key": "csp_mgtva","name": "木瓜🍁影视","type": 3,"api": "csp_XBPQ","ext": {"副标题": "Awen分享","分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类": "电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}},
     {"key": "TVB云播_js","name": "TVB🍁云播","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./js/TVB云播.js"},
     {"key": "华为吧采集","name": "华为🍁采集","jar":"http://gitlab.com/hardlift/city/-/raw/main/jar/c.txt","type": 1,"api": "https://hw8.live/api.php/provide/vod/","style": {"ratio": 1.7}},
     {"key": "三米ys","name": "三米🍁影视","type": 3,"api": "csp_XBPQ","ext": {
