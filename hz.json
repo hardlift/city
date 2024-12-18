@@ -10,9 +10,6 @@
     {"key": "ky1080","name": "酷云🍁APP","type": 3,"api": "http://47.99.102.252/js/openkuyun.js"},
     {"key": "金牌影视","name": "金牌🍁影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/金牌影视.js"},
     {"key": "素白白[优]_js","name": "白白🍁影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./js/素白白.js"}, 
-    {"key": "果果4K解析_js","name": "果果🍁4K","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,
-      "order_num": 0,"ext": "./js/果果4K.js"},
-    {"key": "🌞腾腾4K解析_js","name": "腾腾🍁4K","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./js/腾腾4K.js"},
     {"key": "星辰影院","name": "星辰🍁影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
         "影片类型": "Awen制作",
         "播放标题": ">&&<[不包含:1080P]",
@@ -56,10 +53,6 @@
     {"key": "js_星芽短剧","name": "星芽🍋短剧","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/星芽短剧.js"},
     {"key": "js_蓝莓短剧","name": "蓝莓🍋短剧","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/蓝莓短剧.js"},
     {"key": "csp_XYQHiker_爱你短剧","name":"爱你🍋短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/爱你短剧.json"},
-    {"key": "你好帅","name": "好帅🍋短剧","type": 3,"api": "csp_XBPQ","ext": {
-        "分类url": "https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html",
-        "分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan",
-        "播放数组": "<div class=\"sort-item\"&&</div>"}},
     {"key": "csp_Kuaikan","name": "快看🍁影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1}],
 
 "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",    
