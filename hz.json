@@ -3,10 +3,9 @@
   "warningText": "Awen提示您：📢请勿相信视频中的广告",
   "sites": [
     {"key": "豆瓣","name": "🍁个人测试，请勿传播🍁","type": 3,"api": "csp_Douban","searchable": 0,"changeable": 1},  
+    {"key": "csp_UC","name": "UC📀4K（UC浏览器扫码）","type": 3,"api": "csp_MiUc","jar":"http://gitlab.com/hardlift/city/-/raw/main/jar/xm20241219.jar",	"changeable": 0,"filterable": 1,"ext": {"site_urls": ["http://www.mucpan.cc","http://ucmi.fun","http://www.ucmi.fun"],"url_key": "MiUc","threadinfo": {"chunksize": 450,"threads": 10}}},	
     {"key": "木偶网盘","name": "木偶📀4K（UC浏览器扫码）","type": 3,"api": "csp_Wobg","searchable": 1,"filterable": 1,"changeable": 1,"ext": {"token": "http://127.0.0.1:9978/file/tvbox/tok.txt","cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt","uc_cookie": "http://127.0.0.1:9978/file/tvbox/uc.txt","site": "http://www.mogg.top/","danmu": true},"timeout": 25},
     {"key": "玩偶哥哥","name": "玩偶📀4K（UC浏览器扫码）","type": 3,"api": "csp_Wogg","searchable": 1,"filterable": 1,"changeable": 1,"ext": {"token": "http://127.0.0.1:9978/file/tvbox/tok.txt","cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt","uc_cookie": "http://127.0.0.1:9978/file/tvbox/uc.txt","wogg": true,"danmu": true},"timeout": 30},
-    {"key": "csp_UC","name": "UC📀4K（UC浏览器扫码）","type": 3,"api": "csp_MiUc","jar":"http://gitlab.com/hardlift/city/-/raw/main/jar/xm20241219.jar",	"changeable": 0,"filterable": 1,
-  "ext": {"site_urls": ["http://www.mucpan.cc","http://ucmi.fun","http://www.ucmi.fun"],"url_key": "MiUc","threadinfo": {      "chunksize": 450,"threads": 10}}},	
     {"key": "金牌影视","name": "金牌🍁影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/金牌影视.js"},
     {"key": "ky1080","name": "酷云🍁APP","type": 3,"api": "http://47.99.102.252/js/openkuyun.js"},
     {"key": "csp_XYQHikerNm","name": "农民🍁影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/nmys.json","jar": ""},
@@ -24,7 +23,7 @@
     {"key": "客星","name": "客星🍁App","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM=","jar": "./jar/laohujar.jar"},
     {"key": "文才","name": "文才🍁弹幕","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true
       },"timeout": 10},
-    {"key":"荐片弹幕","name":"荐片🍁弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "http://gitlab.com/hardlift/city/-/raw/main/jar/danmu.jar"},
+    {"key": "荐片","name": "荐片🍁蓝光","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/jianpian.js"},
     {"key": "小苹果弹幕版","name": "苹果🍁弹幕","type": 3,"api": "csp_Xpg","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
         "danmu": true},"timeout": 10},
     {"key": "hipy_js_4k剧院","name": "4k🍁剧院","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 6,"ext": "./js/4k剧院.js"},
