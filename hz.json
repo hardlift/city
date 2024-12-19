@@ -26,6 +26,7 @@
     {"key": "荐片","name": "荐片🍁蓝光","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/jianpian.js"},
     {"key": "小苹果弹幕版","name": "苹果🍁弹幕","type": 3,"api": "csp_Xpg","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
         "danmu": true},"timeout": 10},
+    {"key": "JZTV4┃追剧-csp_xBPQ_TVB","name": "TVB🍁云播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/TVB云播.json"},    
     {"key": "hipy_js_4k剧院","name": "4k🍁剧院","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 6,"ext": "./js/4k剧院.js"},
     {"key": "fxz布蕾","name": "布蕾🍁影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "./js/bulei4K.js"},
     {"key": "星辰影院","name": "星辰🍁影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
